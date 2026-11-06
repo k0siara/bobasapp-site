@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k0siara.github.io/bobasapp-site/sitemap.xml
